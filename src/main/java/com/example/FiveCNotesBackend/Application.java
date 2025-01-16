@@ -1,4 +1,4 @@
-package com.example._CNotesBackend;
+package com.example.FiveCNotesBackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
